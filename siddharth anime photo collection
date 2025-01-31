@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: rgb(52, 114, 155);
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    ;
+}
+
+.photo {
+    margin: 10px;
+    border: 2px solid rose mistyrose;
+    border-radius: 5px;
+    overflow: hidden;
+    width: 1000000000px;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.photo p {
+    margin: 0;
+    padding: 10px;
+    background-color: #fff;
+    color: #763188;
+}
+</style>
+    <title>Anime Photos</title>
+</head>
+<body>
+    <h1>Welcome to My Anime Collection</h1>
+    <div class="gallery" >
+        <div class="photo">
+            <img src="1350411.png" alt="Anime 1">
+            <p>Anime Title 1</p>
+        </div>
+        <div class="photo">
+            <img src="Anime_SoloLevelingArise_SungJinwoo.jpg" alt="Anime 2">
+            <p>Anime Title 2</p>
+        </div>
+        <div class="photo">
+            <img src="1167804.jpg" alt="Anime 3">
+            <p>Anime Title 3</p>
+        </div>
+<div class="photo">
+<img src="1123861.GIF" alt="Anime 4">
+<p>Anime Title 4</p></div>
+<div class="photo">
+            <img src="4ii6w8s5z7k21.jpg" alt="Anime 5">
+            <p>Anime Title 5</p>
+        </div>
+        <div class="photo">
+            <img src="HD-wallpaper-anime-solo-leveling-beru-solo-leveling.jpg" alt="Anime 6">
+            <p>Anime Title 6</p>
+        </div>
+        <div class="photo">
+            <img src="rem-rezero-anime-kawaii-wallpaper-preview.jpg" alt="Anime 6">
+            <p>Anime Title </p>
+        </div>  
+        <div class="photo">
+            <img src="anime-girls-re-zero-kara-hajimeru-isekai-seikatsu-rem-re-zero-wallpaper-preview.jpg" alt="Anime 6">
+            <p>Anime Title 8</p>
+        </div>
+        <div class="photo">
+            <img src="attack-on-titan-wallpaper-1.webp" alt="Anime 6">
+            <p>Anime Title 9</p>
+        </div>
+        <div class="photo">
+            <img src="dan-da-dan-wallpapers-anime-v0-s51cg9eceqsd1.jpg" alt="Anime 6">
+            <p>Anime Title 10</p>
+        </div>
+        <div class="photo">
+            <img src="anime-demon-slayer-kimetsu-no-yaiba-boy-katana-kimetsu-no-yaiba-hd-wallpaper-thumb.jpg" alt="Anime 6">
+            <p>Anime Title 11</p>
+        </div>
+        <div class="photo">
+            <img src="c1c242a44d69301f62d60d14b162b62c.gif" alt="Anime 6">
+            <p>Anime Title 12</p>
+        </div>
+        <div class="photo">
+            <img src="caption-intense-gaze-of-freedom-eren-yeager-pfp-3q27s0q13rqidb20.jpg" alt="Anime 6">
+            <p>Anime Title 13</p>
+        </div> 
+        <div class="photo">
+            <img src="jin_woo_solo_leveling_wallpaper_by_muztnafi_de47t1e-fullview (1).jpg" alt="Anime 6">
+            <p>Anime Title 14</p>
+        </div>
+        <div class="photo">
+            <img src="jujutsu_kaisen_sukuna_live_wallpaper__video__by_shelloux_dh9940o-fullview.jpg" alt="Anime 6">
+            <p>Anime Title 15</p>
+        </div>
+        <div class="photo">
+            <img src="one-punch-man-saitama-epic-desktop-wallpaper-preview.jpg" alt="Anime 6">
+            <p>Anime Title 16</p>
+        </div>
+        <div class="photo">
+            <img src="sad-anime-quotes-1920-x-1080-nbgvlncxdhwc9cq0.jpg" alt="Anime 6">
+            <p>Anime Title 17</p>
+        </div>
+        <div class="photo">
+            <img src="shadows-army-solo-leveling.jpg" alt="Anime 6">
+            <p>Anime Title 18</p>
+        </div>
+        <div class="photo">
+            <img src="solo-leveling.avif" alt="Anime 6">
+            <p>Anime Title 19</p>
+        </div>
+        <div class="photo">
+            <img src="Picture good for slideshow/death-note-yagami-light-kira-3588.jpg" alt="">
+        <p>Anime Title 20</p></div>
+        <div class="photo">
+            <img src="thumb-1920-1352229.png" alt="Anime 6">
+            <p>Anime Title 21</p>
+        </div>
+        <div class="photo">
+            <img src="biru.webp" alt="Anime 6">
+            <p>Anime Title 22</p>
+        </div>
+        <div class="photo">
+            <img src="1357475.png" alt="Anime 6">
+            <p>Anime Title 23</p>
+        </div>
+        <div class="photo">
+            <img src="364422138304a7067a8077d21c192f3a.gif" alt="Anime 6">
+            <p>Anime Title 24</p>
+        </div>
+        <div class="photo">
+            <img src="132775.gif" alt="Anime 6">
+            <p>Anime Title 25</p>
+        </div>
+        <div class="photo">
+            <img src="1280905.png" alt="Anime 6">
+            <p>Anime Title 26</p>
+        </div>
+        <div class="photo">
+            <img src="6ab8fa2e8253142b3bf65d0e60b9094e.gif" alt="Anime 6">
+            <p>Anime Title 27</p>
+        </div>
+        <div class="photo">
+            <img src="3cd4f938cb9adc3b6b04b8b614ff6094.jpeg" alt="Anime 6">
+            <p>Anime Title 28</p>
+        </div>
+        <div class="photo">
+            <img src="1e4640771849a2b344e73751f51057dd.jpg" alt="Anime 6">
+            <p>Anime Title 29</p>
+        </div>
+        <div class="photo">
+            <img src="1143262.jpg" alt="Anime 6">
+            <p>Anime Title 30</p>
+        </div>
+        <div class="photo">
+            <img src="0dba9fd5b9bbfe556fe694051584df1c.gif" alt="Anime 6">
+            <p>Anime Title 31</p>
+        </div>
+        <div class="photo">
+            <img src="219182.gif" alt="Anime 6">
+            <p>Anime Title 32</p>
+        </div>
+        <div class="photo">
+            <img src="satoru-gojo-jujutsu-2560x1440-9292.jpg" alt="Anime 6">
+            <p>Anime Title 33</p>
+        </div>
+        <div class="photo">
+            <img src="Screenshots/Screenshot (411).png" alt="Anime 6">
+            <p>Anime Title 34</p>
+        </div>
+        <div class="photo">
+            <img src="biru.webp" alt="Anime 6">
+            <p>Anime Title 35</p>
+        </div>
+        <div class="photo">
+            <img src="b55pe8ut4j3d1-b.webp" alt="Anime 6">
+            <p>Anime Title 36</p>
+        </div>
+        <div class="photo">
+            <img src="Screenshots/Screenshot (448).png" alt="Anime 6">
+            <p>Anime Title 37</p>
+        </div>
+        <div class="photo">
+            <img src="Screenshots/Screenshot (466).png" alt="Anime 6">
+            <p>Anime Title 38</p>
+        </div>
+        <div class="photo">
+            <img src="thumb-1920-1355096.jpeg" alt="Anime 6">
+            <p>Anime Title 39</p>
+        </div>
+        <div class="photo">
+            <img src="gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg" alt="Anime 40">
+            <p>Anime Title 40</p>
+        </div>
+        <div class="photo">
+            <img src="death-note-4k-tasa19kio3xv9rao.jpg" alt="Anime 41">
+            <p>Anime Title 41</p>
+        </div>
+        <div class="photo">
+            <img src="rem-rezero-kawaii-anime-wallpaper-preview.jpg" alt="Anime 41">
+            <p>Anime Title 42</p>
+        </div>
+        <!-- Add more photos as needed -->
+    </div>
+</body>
+</html>
